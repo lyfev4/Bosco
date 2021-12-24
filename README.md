@@ -22,7 +22,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
- <a href="https://github.com/shanibser"><img title="Author" src="https://img.shields.io/badge/Author-shanu-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+918075168486?text=Hello%2𝐬𝐡𝐚𝐧𝐢𝐛%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-shanu-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/shanibser"><img title="Author" src="https://img.shields.io/badge/Author-shanu-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+918075168486?text=Hello𝐬𝐡𝐚𝐧𝐢𝐛%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-shanu-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/LM98BWzvg7C5ZOsx3ThxEH"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-shanibser-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
