@@ -29,9 +29,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/shanibser/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/shanibser/Bosco#simple method">Installation</a> •
-  <a href="https://github.com/shanibser/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
+  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
+  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
 </p>
 </div>
 
