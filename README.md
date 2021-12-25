@@ -9,7 +9,7 @@
 <div align="center">
 <img src="sh.jpg" alt="shanu" width="170" />
 
-# Bosco Bot
+# SHANIB-BOT
 
 > Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
