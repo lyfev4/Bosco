@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="shanu" width="170" />
+<img src="sh.jpg" alt="shanu" width="170" />
 
 # Bosco Bot
 
